@@ -1,0 +1,6 @@
+.venv
+mlartifacts
+mlruns
+__pycache__
+*.pyc
+*.pyo

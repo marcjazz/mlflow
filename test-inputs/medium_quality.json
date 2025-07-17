@@ -1,0 +1,10 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "fixed acidity", "volatile acidity", "citric acid", "residual sugar",
+      "chlorides", "free sulfur dioxide", "total sulfur dioxide", "density",
+      "pH", "sulphates", "alcohol"
+    ],
+    "data": [[6.8, 0.35, 0.34, 6.0, 0.045, 30.0, 120.0, 0.994, 3.1, 0.55, 10.0]]
+  }
+}
